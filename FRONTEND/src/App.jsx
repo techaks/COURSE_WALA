@@ -19,7 +19,7 @@ const App = () => {
 
 
   return (
-    <div className="bg-gradient-to-b from-white via-[#f0ffff] to-[#93e4e4]">
+    <div className="bg-gradient-to-b from-white via-[#aaebeb] to-[#93e4e4]">
 
    
 

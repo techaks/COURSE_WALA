@@ -3,6 +3,7 @@ import SeacrhBar from './SeacrhBar'
 import Companies from './Companies'
 import CoursesSection from './CoursesSection'
 import Testomonial from './Testomonial'
+import Footer from './Footer'
 
 const Hero = () => {
   return (
@@ -19,6 +20,7 @@ const Hero = () => {
       <Companies/>
       <CoursesSection/>
       <Testomonial/>
+      <Footer/>
      
       
     </div>
